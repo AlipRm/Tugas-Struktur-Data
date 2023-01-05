@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1672670301 source:d:\telkom\std\tubesjadi\wonderful indonesia\main.cpp
+	<iostream>
+	"WonderfulIndonesia.h"
+	"Menu.h"
+
+1672671296 source:d:\telkom\std\tubesjadi\wonderful indonesia\wonderfulindonesia.cpp
+	"WonderfulIndonesia.h"
+
+1672670024 d:\telkom\std\tubesjadi\wonderful indonesia\wonderfulindonesia.h
+	<iostream>
+
+1672422152 d:\telkom\std\tubesjadi\wonderful indonesia\menu.h
+	<iostream>
+
+1672453069 source:d:\telkom\std\tubesjadi\wonderful indonesia\menu.cpp
+	"Menu.h"
+	<iostream>
+
